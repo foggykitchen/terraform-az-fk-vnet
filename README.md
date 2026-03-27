@@ -2,7 +2,7 @@
 
 This repository contains a reusable **Terraform/OpenTofu module** and progressive examples for deploying an **Azure Virtual Network (VNet)** with **subnets**, designed for real-world cloud architectures and hands-on learning.
 
-It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/)** and serves as a foundational building block for Azure and multicloud courses, including AKS, Private Endpoints, and advanced networking scenarios.
+It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** and serves as a foundational building block for Azure and multicloud courses, including AKS, Private Endpoints, and advanced networking scenarios.
 
 ---
 
