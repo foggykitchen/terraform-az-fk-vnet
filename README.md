@@ -67,7 +67,7 @@ All examples are runnable and demonstrate **incremental network design**, from t
 
 ```hcl
 module "vnet" {
-  source = "git::https://github.com/mlinxfeld/terraform-az-fk-vnet.git?ref=v0.1.1"
+  source = "git::https://github.com/foggykitchen/terraform-az-fk-vnet.git?ref=v0.1.1"
 
   name                = "fk-vnet-demo"
   location            = "westeurope"
@@ -167,12 +167,12 @@ This makes the module ideal for:
 
 ## 🧩 Related Modules & Training
 
-- [terraform-az-fk-nsg](https://github.com/mlinxfeld/terraform-az-fk-nsg)
-- [terraform-az-fk-loadbalancer](https://github.com/mlinxfeld/terraform-az-fk-loadbalancer)
-- [terraform-az-fk-compute](https://github.com/mlinxfeld/terraform-az-fk-compute)
-- [terraform-az-fk-disk](https://github.com/mlinxfeld/terraform-az-fk-disk)
-- [terraform-az-fk-storage](https://github.com/mlinxfeld/terraform-az-fk-storage)
-- [terraform-az-fk-aks](https://github.com/mlinxfeld/terraform-az-fk-aks)
+- [terraform-az-fk-nsg](https://github.com/foggykitchen/terraform-az-fk-nsg)
+- [terraform-az-fk-loadbalancer](https://github.com/foggykitchen/terraform-az-fk-loadbalancer)
+- [terraform-az-fk-compute](https://github.com/foggykitchen/terraform-az-fk-compute)
+- [terraform-az-fk-disk](https://github.com/foggykitchen/terraform-az-fk-disk)
+- [terraform-az-fk-storage](https://github.com/foggykitchen/terraform-az-fk-storage)
+- [terraform-az-fk-aks](https://github.com/foggykitchen/terraform-az-fk-aks)
 
 ---
 
