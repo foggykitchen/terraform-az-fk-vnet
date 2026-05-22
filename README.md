@@ -167,12 +167,12 @@ This makes the module ideal for:
 
 ## 🧩 Related Modules & Training
 
-- [terraform-az-fk-nsg](https://github.com/foggykitchen/terraform-az-fk-nsg)
-- [terraform-az-fk-loadbalancer](https://github.com/foggykitchen/terraform-az-fk-loadbalancer)
-- [terraform-az-fk-compute](https://github.com/foggykitchen/terraform-az-fk-compute)
-- [terraform-az-fk-disk](https://github.com/foggykitchen/terraform-az-fk-disk)
-- [terraform-az-fk-storage](https://github.com/foggykitchen/terraform-az-fk-storage)
-- [terraform-az-fk-aks](https://github.com/foggykitchen/terraform-az-fk-aks)
+- [terraform-az-fk-nsg](https://github.com/mlinxfeld/terraform-az-fk-nsg)
+- [terraform-az-fk-loadbalancer](https://github.com/mlinxfeld/terraform-az-fk-loadbalancer)
+- [terraform-az-fk-compute](https://github.com/mlinxfeld/terraform-az-fk-compute)
+- [terraform-az-fk-disk](https://github.com/mlinxfeld/terraform-az-fk-disk)
+- [terraform-az-fk-storage](https://github.com/mlinxfeld/terraform-az-fk-storage)
+- [terraform-az-fk-aks](https://github.com/mlinxfeld/terraform-az-fk-aks)
 
 ---
 

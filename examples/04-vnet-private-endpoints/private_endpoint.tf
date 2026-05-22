@@ -2,7 +2,7 @@
 # ACR Private Link uses: privatelink.azurecr.io
 
 module "private_dns" {
-  source = "github.com/foggykitchen/terraform-az-fk-private-dns"
+  source = "github.com/mlinxfeld/terraform-az-fk-private-dns"
   count  = var.enable_acr_private_endpoint && var.enable_private_dns ? 1 : 0
 
   resource_group_name    = azurerm_resource_group.foggykitchen_rg.name
@@ -18,7 +18,7 @@ module "private_dns" {
 }
 
 module "private_endpoint_acr" {
-  source = "github.com/foggykitchen/terraform-az-fk-private-endpoint"
+  source = "github.com/mlinxfeld/terraform-az-fk-private-endpoint"
   count  = var.enable_acr_private_endpoint ? 1 : 0
 
   name                = "fk-acr-pe"
