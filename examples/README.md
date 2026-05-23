@@ -63,8 +63,8 @@ These examples intentionally avoid:
 ## 🧩 Related Resources
 
 - [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](../)
-- [FoggyKitchen Azure NSG Module (terraform-az-fk-nsg)](https://github.com/mlinxfeld/terraform-az-fk-nsg)
-- [FoggyKitchen Azure Load Balancer Module (terraform-az-fk-loadbalancer)](https://github.com/mlinxfeld/terraform-az-fk-loadbalancer)
+- [FoggyKitchen Azure NSG Module (terraform-az-fk-nsg)](https://github.com/foggykitchen/terraform-az-fk-nsg)
+- [FoggyKitchen Azure Load Balancer Module (terraform-az-fk-loadbalancer)](https://github.com/foggykitchen/terraform-az-fk-loadbalancer)
 - [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/foggykitchen/terraform-az-fk-compute)
 - [FoggyKitchen Azure Disk Module (terraform-az-fk-disk)](https://github.com/foggykitchen/terraform-az-fk-disk)
 - [FoggyKitchen Azure Storage Module (terraform-az-fk-storage)](https://github.com/foggykitchen/terraform-az-fk-storage)
