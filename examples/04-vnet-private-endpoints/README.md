@@ -141,6 +141,17 @@ tofu destroy
 
 ---
 
+## 📘 Related Article
+
+This example is described in more detail in the FoggyKitchen blog post
+["Securing AKS Image Pulls with Azure Private Endpoints (using Terraform/OpenTofu)"](https://foggykitchen.com/2025/12/19/aks-acr-private-endpoint-terraform/).
+
+The article explains how AKS, Azure Container Registry, Private Endpoints,
+and Azure Private DNS work together to enable private image pulls, and why
+this subnet layout supports secure, intent-driven Azure network design.
+
+---
+
 ## 🌐 Learn More
 
 Visit [FoggyKitchen.com](https://foggykitchen.com/) for:
