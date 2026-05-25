@@ -4,6 +4,8 @@ This repository contains a reusable **Terraform/OpenTofu module** and progressiv
 
 It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** and serves as a foundational building block for Azure and multicloud courses, including AKS, Private Endpoints, and advanced networking scenarios.
 
+This module is also part of the **[Azure Fundamentals with Terraform/OpenTofu — Build Real-World Azure Architectures with Reusable Modules (2026 Edition)](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** course. In the training, it is used as the base networking layer for workloads, private connectivity, and secure access patterns built throughout the labs.
+
 ---
 
 ## 🎯 Purpose
