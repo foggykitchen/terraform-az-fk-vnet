@@ -86,6 +86,17 @@ such as AKS-ready or Private Endpoint–ready designs.
 
 ---
 
+## 📘 Related Article
+
+This example is described in more detail in the FoggyKitchen blog post
+["Designing Azure VNets with Purpose-Driven Subnets (using Terraform Module)"](https://foggykitchen.com/2025/12/18/azure-vnet-terraform-module/).
+
+The article explains why subnet layout should reflect architectural intent,
+how to treat VNet address space as a long-term contract, and how this example
+fits into a larger Azure platform design built with reusable Terraform modules.
+
+---
+
 ## 🌐 Learn More
 
 Visit [FoggyKitchen.com](https://foggykitchen.com/) for Azure networking,
